@@ -1,4 +1,5 @@
 Transcriptomic Biomarker Discovery Pipeline: Lung Adenocarcinoma
+**🟢 Live Web App:** [Click here to access the deployed Clinical AI Dashboard](https://gse10072-diagnostic-model.streamlit.app)
 
 Overview
 
